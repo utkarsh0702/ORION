@@ -1,6 +1,6 @@
 # ORION
 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)]  ![GitHub last commit](https://img.shields.io/github/last-commit/utkarsh0702/ORION) 
+![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)  ![GitHub last commit](https://img.shields.io/github/last-commit/utkarsh0702/ORION) 
 
 This repository contains the Flutter UI Designs for an E-Commerce App.
 
